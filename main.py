@@ -11,3 +11,4 @@ from analisis_datos.estadisticas import media,calcular_mediana
 lista_parametro = [5,3,1,2,40]
 
 print('media: ', media(lista_parametro))
+print('Mediana: ', calcular_mediana(lista_parametro))
